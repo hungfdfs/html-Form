@@ -8,6 +8,13 @@ body {
   font-family: Tahoma;
 }
 
+form {
+  margin: 0 auto;
+  width: 60vw;
+  min-width: 300px;
+  max-width: 500px;
+}
+
 h1,
 p {
   margin: 1em auto;
