@@ -15,11 +15,6 @@ form {
   max-width: 500px;
 }
 
-fieldset {
-  border: none;
-  padding: 2rem;
-}
-
 h1,
 p {
   margin: 1em auto;
